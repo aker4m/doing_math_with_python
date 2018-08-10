@@ -30,11 +30,11 @@ $ pip3 install jupyter notebook
 
 ![png](pylab_ex.png)
 
-뉴욕시의 연간 평균온도를 그래프로 표시, 뉴욕시의 월간 온도 비교, 그래프 개인화,
+뉴욕시의 연간 평균온도를 그래프로 표시, 뉴욕시의 월간 온도 비교, 그래프 개인화,  
 **newyork_temp.py : 뉴욕 2000, 2006, 2012 평균 월별 온도 그래프**   
 ```python
 %run newyork_temp.py
 ```
 
-![png](nyc_temp.png)
+![png](nyc_temp.png)  
 축 조정, pyplot을 사용해 그래프 그리기, 그래프 저장, 만유인력에 대한 뉴턴의 법칙, 포물선 운동, 동일간격별로 부동소수점 숫자 생성, 포물선 그리기, 서로 다른 초기 속도에 따른 궤적 비교, 
