@@ -12,3 +12,14 @@
 *miles_kilometers.py : 단위변환, 마일과 킬로미터*  
 *roots_quadratic_equation.py : 이차방정식의 해 계산기*   
 
+2장 그래프로 데이터 가시화
+---------------------------
+카르테시안 좌표평면의 이해, 리스트와 튜플을 이용한 작업, 리스트나 튜플에 대한 실행 반복,   
+*pylab_ex.py : 그래프 예제*  
+```python
+%matplotlib inline
+%run pylab_ex.py
+```
+
+![png](output_0_0.png)
+
