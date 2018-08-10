@@ -62,3 +62,11 @@ $ pip3 install jupyter notebook
 ```
 ![png](three_speed_projectile.png)  
 
+3장 통계값을 이용한 테이터 설명
+---------------------------------
+**calc_mean.py : 평균계산,**   
+**calc_median.py : 중위수 계산,**  
+**most_common.py : 최빈값 찾기,**  
+**numbers_max_count.py : 여러 최빈값을 갖는 숫자 리스트를 대상으로 최빈값 계산,**  
+**frequency_table.py : 빈도 테이블 생성,**  
+숫자 집합의 범위 알아내기, 분산과 표준편차 계산, 상관계수 계산,  텍스트 파일에서 데이터 읽기, csv 파일에서 데이터 읽어오기, 
