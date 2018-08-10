@@ -16,11 +16,13 @@
 ---------------------------
 카르테시안 좌표평면의 이해, 리스트와 튜플을 이용한 작업, 리스트나 튜플에 대한 실행 반복,   
 **pylab_ex.py : 그래프 예제**  
+***  
 필수작업
 ```bash
 $ pip3 install matplotlib
 $ pip3 install jupyter notebook
 ```
+***
 ```python
 %matplotlib inline
 %run pylab_ex.py
