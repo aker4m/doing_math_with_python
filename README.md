@@ -43,5 +43,11 @@ $ pip3 install jupyter notebook
 %run pyplot_ex.py
 ```
 
-![png](pyplot_ex.png)
-그래프 저장, 만유인력에 대한 뉴턴의 법칙, 포물선 운동, 동일간격별로 부동소수점 숫자 생성, 포물선 그리기, 서로 다른 초기 속도에 따른 궤적 비교, 
+![png](pyplot_ex.png)  
+그래프 저장 pylab.savefig('pyplot_ex.png'),  
+**gravitational_force.py : 만유인력에 대한 뉴턴의 법칙**  
+```python
+%run gravitational_force.py
+```
+![png](gravitational_force.png)  
+포물선 운동, 동일간격별로 부동소수점 숫자 생성, 포물선 그리기, 서로 다른 초기 속도에 따른 궤적 비교, 
