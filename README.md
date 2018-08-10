@@ -10,4 +10,5 @@
 *multi_table.py : 곱 테이블 출력하기*  
 측정 단위 변환,   
 *miles_kilometers.py : 단위변환, 마일과 킬로미터*  
+*roots_quadratic_equation.py : 이차방정식의 해 계산기*   
 
