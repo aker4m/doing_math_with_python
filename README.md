@@ -50,4 +50,15 @@ $ pip3 install jupyter notebook
 %run gravitational_force.py
 ```
 ![png](gravitational_force.png)  
-포물선 운동, 동일간격별로 부동소수점 숫자 생성, 포물선 그리기, 서로 다른 초기 속도에 따른 궤적 비교, 
+포물선 운동, 동일간격별로 부동소수점 숫자 생성,   
+**projectile_motion.py : 포물선 그리기**   
+```python
+%run projectile_motion.py
+```
+![png](projectile_motion.png)  
+**three_speed_projectile.py : 서로 다른 초기 속도에 따른 궤적 비교**  
+```python
+%run three_speed_projectile.py
+```
+![png](three_speed_projectile.png)  
+
