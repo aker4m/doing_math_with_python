@@ -75,3 +75,14 @@ $ pip3 install jupyter notebook
 **read_text_file.py : 텍스트 파일에서 데이터 읽기,**   
 **read_text_calc_mean.py : 파일에 저장된 숫자의 평균을 계산,**   
 **read_csv_file.py : csv 파일에서 데이터 읽어오기,**
+
+4장 SYMPY를 이용한 대수와 부호수학
+--------------------------------------
+***  
+필수작업
+```bash
+$ pip3 install sympy
+```
+***
+**symbol_ex.py : 부호와 부호 연산 정의,**
+
