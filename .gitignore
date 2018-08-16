@@ -2,3 +2,4 @@ env_math/
 .ipynb_checkpoints/
 nyc_temp.ipynb
 __pycache__/
+*.pyc
